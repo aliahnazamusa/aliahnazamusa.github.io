@@ -1,3 +1,12 @@
-theme: jekyll-theme-merlot
-title: Welcome to Aliah's homepage!
-description: Feel free to bookmark this website for more updates on my design project
+
+# basic options
+title: What's Up Walk
+author: A. Nazamusa
+email: aliahnaza@gmail.com
+description: Testing github talent
+twitter_username: walkingA
+github_username: aliahnazamusa
+
+# Build settings
+markdown: kramdown
+theme: minima
